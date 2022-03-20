@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leticia\\myApp\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {}
+    "C:\\workspace\\myApp\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leticia\\myApp\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {
+    "C:\\workspace\\myApp\\DigitalInnovationOne\\DigitalInnovationOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leticia\\myApp\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "projectUniqueName": "C:\\workspace\\myApp\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
         "projectName": "DigitalInnovationOne",
-        "projectPath": "C:\\Users\\Leticia\\myApp\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
+        "projectPath": "C:\\workspace\\myApp\\DigitalInnovationOne\\DigitalInnovationOne.csproj",
         "packagesPath": "C:\\Users\\Leticia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leticia\\myApp\\DigitalInnovationOne\\obj\\",
+        "outputPath": "C:\\workspace\\myApp\\DigitalInnovationOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leticia\\AppData\\Roaming\\NuGet\\NuGet.Config"
